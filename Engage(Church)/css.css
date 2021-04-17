@@ -1,0 +1,244 @@
+body{
+    font-size:16px;
+    font-family:"RobotoSlab";
+}
+
+
+
+
+/* FIRST SECTION STARTS HERE */ 
+
+.first{
+    background-image:url("photos/photo-1476873282730-9018f17bdf4e.webp");
+    background-repeat:no-repeat;
+    background-size:100%;
+    height:800px;
+    background-position:center center;
+    background-attachment:fixed;
+}
+.first1{
+    background-color:rgba(5,5,5,.5);
+    height:800px;
+}
+.navbar{
+    font-size:1.5rem;
+    /* position:fixed;*/ 
+}
+.first2{
+    position:relative;
+    top:150px;
+}
+.first2 h1{
+    font-size:5rem;
+}
+.first2 h3{
+    font-size:2rem;
+}
+.first2 h1,h3,button :before{
+    content:" ";
+    margin-bottom:50px;
+}
+.first2 button{
+    background-color:#DE4B38 !important;
+    color:white;
+    border-color:#DE4B38;
+    margin-left:20px;
+}
+.first3 {
+    height:70px;
+    width:70px;
+    background-color:#DE4B38;
+    /* border:100px; */
+    border-color:white;
+    position:relative;
+    bottom:155px;
+}
+/* FIRST SECTION ENDS HERE */ 
+
+
+
+
+/* SECOND SECTION STARTS HERE */ 
+.second{
+    position:relative;
+    top:100px;
+}
+.second > div > div{
+    background-color:#DE4B38;
+    width:150px;
+    height:150px;
+    position:relative;
+    left:60px;
+    bottom:20px;
+}
+.second > div > div img{
+    position:relative;
+    top:20px;
+}
+.second > div > p{
+    position:relative;
+    bottom:40px;
+    color:#9791B6;
+}
+.second > div > h3{
+    color:#634a4b;
+}
+/* SECOND SECTION ENDS HERE */ 
+
+
+
+/* THIRD SECTION STARTS HERE */ 
+.thierd{
+    background-color:#F8F8F8;
+    height:500px;
+    position:relative;
+    top:150px;
+}
+.thierd h1{
+    font-size:4rem;
+    color:#634A4B;
+}
+.thierd div > p{
+    color:#7D6060;
+    font-size:1.2rem;
+    margin-top:50px
+}
+.thierd button{
+    background-color:#DE4B38 !important;
+    color:white;
+    border-color:#DE4B38;
+    position:relative;
+    left:42%;
+    margin-top:50px
+}
+
+/* THIRD SECTION ENDS HERE */ 
+
+
+
+
+/* FOURTH SECTION STARTS HERE */ 
+.fourth{
+    position:relative;
+    top:160px;
+    height:500px;
+    background-image:url('photos/photo-1512237260610-23782f4c1bfe.webp');
+    background-repeat:no-repeat;
+    width:100%;
+    background-position:top center;
+}
+.fourth section{
+    position:relative;
+    top:70px;
+}
+.fourth section h1{
+    font-size:4rem;
+    
+}
+.fourth section h3{
+    font-size:3rem;
+}
+.fourth section h1,h3,button :before{
+    content:" ";
+    margin-top:50px;
+}
+/* FOURTH SECTION ENDS HERE */ 
+
+
+
+/* FIFTH SECTION STARTS HERE */
+.fifth .fifth1{
+    position:relative;
+    top:160px;
+}
+.fifth > div > div> div >div> h5{
+    color:#DE4B38;
+    font-size:3rem;
+    /* background-color:rgba(10,10,10,.9);*/
+}
+/* FIFTH SECTION ENDS HERE */ 
+
+
+
+/* SIXTH SECTION STARTS HERE */ 
+.sixth{
+    position:relative;
+    top:110px;
+    height:400px;
+    background-image:url('photos/photo-1501060380799-184ae00cf089.webp');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center center;
+    background-position:fixed;
+}
+.sixth .sixth1{
+    width:100%;
+    height:400px;
+    background-color:rgba(5,5,5,.7);
+}
+.sixth .sixth1 > section{
+    position:relative;
+    top:100px;
+}
+.sixth .sixth1 > section > h5,h1:before{
+    content:" ";
+    margin-top:50px;
+}
+
+/* SIXTH SECTION ENDS HERE */ 
+
+
+
+/* siventh SECTION STARTS HERE */ 
+.seventh{
+    position:relative;
+    top:80px;
+    height:300px;
+    background-color:#DE4B38;
+}
+.seventh h1{
+    position:relative;
+    top:40px;
+}
+.seventh button{
+    position:relative;
+    bottom:30px;
+}
+/* siventh SECTION ENDS HERE */ 
+
+
+
+/* EIGTH SECTION STARTS HERE */ 
+footer{
+    position:relative;
+    top:80px;
+    background-color:#1A1B1E;
+    width:100%;
+}
+footer > section> section {
+    margin:50px;
+}
+footer > section> section > div{
+    position:relative;
+}
+.foter1{
+    background-image:url('photos/webp.webp');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center center;
+}
+/* EIGTH SECTION ENDS HERE */ 
+
+
+/* FINAL SECTION STARTS HERE */ 
+.footer2{
+    position:relative;
+    top:60px;
+    background-color:#131416;
+}
+/* FINAL SECTION ENDS HERE */ 
+
+
+
+
+/********* THE ASSIGNMENT ENDS HERE ******/
